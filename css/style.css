@@ -1,0 +1,16 @@
+/* 
+    object-fit
+*/
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 800;
+}
+
